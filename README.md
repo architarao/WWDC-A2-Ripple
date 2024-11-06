@@ -1,6 +1,20 @@
 ## General Information
 The project, Ripple, is an artistic challenge that aims to visualise different emotions through visual art due to my personal hobby of drawing. I chose this project to help me gain deeper understanding into emotions and potentially find solace in visualising emotions that I experience. 
-## Technologies Used (Sources)
+## Technologies Used 
+This project was creates through Processing, since it is well known for its visual animation.
+## Set Up
+This project was created on Porcessing (java) and as such when using it processing software must be downloaded on the chosen device in acordance with whether the device is using Windows or IOS. 
+## Usage
+After accessing the file, users simple run the code, press any code of their choosing and after viewing the animation they can use the home button to go back to the default screen. 
+## Features
+Features of the project include the default screen with the three buttons, and the visual animation that each button depicts to the user.
+## Screenshots of Project 
+https://github.com/user-attachments/assets/a24c6170-add0-4122-b1ed-feff12df802e
+## Project Status
+This project has been completed. 
+## Room for Improvement
+Areas that can be improved upon is the visual animation of the ripple itself and the default screen. Features that can be added or amended is creating different visual animations for each button rather than the same design. 
+## Sources 
 Meyer, J. (Ed.). (2022). Programming 101: Learn to Code with the Processing Language Using a Visual (2nd ed.). Apress. 
 Processing. (n.d.). Boolean. https://processing.org/reference/boolean.html 
 Processing. (n.d.). Button. https://processing.org/examples/button.html 
@@ -19,19 +33,4 @@ Processing. (n.d.). strokeWeight(). https://processing.org/reference/strokeWeigh
 Processing. (n.d.). rectMode(). https://processing.org/reference/rectMode_.html 
 Processing. (n.d.). textAlign(). https://processing.org/reference/textAlign_.html
 Processing. (n.d.). textSize(). https://processing.org/reference/textSize_.html
-## Features
-Features of the project include the default screen with the three buttons, and the visual animation that each button depicts to the user.
-## Screenshots of Project 
-https://github.com/user-attachments/assets/a24c6170-add0-4122-b1ed-feff12df802e
-## Set Up
-This project was created on Porcessing (java) and as such when using it processing software must be downloaded on the chosen device in acordance with whether the device is using Windows or IOS. 
-## Usage
-After accessing the file, users simple run the code, press any code of their choosing and after viewing the animation they can use the home button to go back to the default screen. 
-## Project Status
-This project has been completed. 
-## Room for Improvement
-Areas that can be improved upon is the visual animation of the ripple itself and the default screen. Features that can be added or amended is creating different visual animations for each button rather than the same design. 
-## Acknowledgements
-This project was inspired by the visual animation of the ripple on thedotisblack, as well as my interest in visual animation. There were many resources that were utilised to assist me within this project and the tutorial classes also were extremely helpful. 
-## Contact 
-Feel free to contact me at archita.rao@student.uts.edu.au
+m
